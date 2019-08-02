@@ -1,0 +1,142 @@
+/* written by https://codepen.io/oknoblich */
+
+
+p:not(:last-child) {
+  margin: 0 0 20px;
+}
+
+.tabs {
+  max-width: 1920px;
+  padding: 40px;
+  border: 2px solid rgba(0,0,0,.2);
+  border-radius: 10px;
+  background: #f9f9f9;
+}
+
+section {
+  display: none;
+  padding: 20px 0 0;
+  /*border-top: 2px solid rgba(0,0,0,.2);*/
+}
+
+.tabs input {
+  display: none;
+}
+
+.tabs label {
+  display: inline-block;
+  margin: 0 0 -1px;
+  padding: 15px 25px;
+  font-weight: 400;
+  text-align: center;
+  color: #919191;
+  border: 1px solid transparent;
+}
+
+.tabs label:before {
+  font-family: fontawesome;
+  font-weight: normal;
+  margin-right: 10px;
+}
+
+.tabs label[for*='1']:before { content: ''; }
+.tabs label[for*='2']:before { content: ''; }
+.tabs label[for*='3']:before { content: ''; }
+.tabs label[for*='4']:before { content: ''; }
+.tabs label[for*='5']:before { content: ''; }
+.tabs label[for*='6']:before { content: ''; }
+.tabs label[for*='7']:before { content: ''; }
+.tabs label[for*='8']:before { content: ''; }
+.tabs label[for*='9']:before { content: ''; }
+.tabs label[for*='10']:before { content: ''; }
+.tabs label[for*='11']:before { content: ''; }
+.tabs label[for*='12']:before { content: ''; }
+.tabs label[for*='13']:before { content: ''; }
+.tabs label[for*='14']:before { content: ''; }
+.tabs label[for*='15']:before { content: ''; }
+.tabs label[for*='16']:before { content: ''; }
+.tabs label[for*='17']:before { content: ''; }
+.tabs label[for*='18']:before { content: ''; }
+.tabs label[for*='19']:before { content: ''; }
+.tabs label[for*='20']:before { content: ''; }
+.tabs label[for*='21']:before { content: ''; }
+.tabs label[for*='22']:before { content: ''; }
+.tabs label[for*='23']:before { content: ''; }
+.tabs label[for*='24']:before { content: ''; }
+.tabs label[for*='25']:before { content: ''; }
+.tabs label[for*='26']:before { content: ''; }
+.tabs label[for*='27']:before { content: ''; }
+.tabs label[for*='28']:before { content: ''; }
+.tabs label[for*='29']:before { content: ''; }
+.tabs label[for*='30']:before { content: ''; }
+.tabs label[for*='31']:before { content: ''; }
+.tabs label[for*='32']:before { content: ''; }
+.tabs label[for*='33']:before { content: ''; }
+.tabs label[for*='34']:before { content: ''; }
+
+.tabs label:hover {
+  color: #789;
+  cursor: pointer;
+}
+
+.tabs input:checked + label {
+  color: #373737;
+  /*border: 1px solid #abc;
+  border-top: 2px solid #0af;
+  border-bottom: 1px solid #fff;*/
+}
+
+#tab1:checked ~ #content1,
+#tab2:checked ~ #content2,
+#tab3:checked ~ #content3,
+#tab4:checked ~ #content4,
+#tab5:checked ~ #content5,
+#tab6:checked ~ #content6,
+#tab7:checked ~ #content7,
+#tab8:checked ~ #content8,
+#tab9:checked ~ #content9,
+#tab10:checked ~ #content10,
+#tab11:checked ~ #content11,
+#tab12:checked ~ #content12,
+#tab13:checked ~ #content13,
+#tab14:checked ~ #content14,
+#tab15:checked ~ #content15,
+#tab16:checked ~ #content16,
+#tab17:checked ~ #content17,
+#tab18:checked ~ #content18,
+#tab19:checked ~ #content19,
+#tab20:checked ~ #content20,
+#tab21:checked ~ #content21,
+#tab22:checked ~ #content22,
+#tab23:checked ~ #content23,
+#tab24:checked ~ #content24,
+#tab25:checked ~ #content25,
+#tab26:checked ~ #content26,
+#tab27:checked ~ #content27,
+#tab28:checked ~ #content28,
+#tab29:checked ~ #content29,
+#tab30:checked ~ #content30,
+#tab31:checked ~ #content31,
+#tab32:checked ~ #content32,
+#tab33:checked ~ #content33,
+#tab34:checked ~ #content34
+ {
+  display: block;
+}
+
+@media screen and (max-width: 800px) {
+  .tabs label {
+    font-size: 11px;
+  }
+  .tabs label:before {
+    margin: 0;
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .tabs label {
+    padding: 15px;
+  }
+}
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Sailsport</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-14.000000, -1198.000000)" stroke="#828080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Sailsport" transform="translate(20.000000, 1200.000000)" sketch:type="MSShapeGroup">
+                <path d="M0,48 C0,51.3137085 2.6862915,54 6,54 C9.3137085,54 12,51.3137085 12,48" id="Oval-920"></path>
+                <path d="M12,48 C12,51.3137085 14.6862915,54 18,54 C21.3137085,54 24,51.3137085 24,48" id="Oval-920"></path>
+                <path d="M24,48 C24,51.3137085 26.6862915,54 30,54 C33.3137085,54 36,51.3137085 36,48" id="Oval-920"></path>
+                <path d="M36,48 C36,51.3137085 38.6862915,54 42,54 C45.3137085,54 48,51.3137085 48,48" id="Oval-920"></path>
+                <path d="M2,35 L50,35 L43.8064516,44 L6.64516129,44 L2,35 Z" id="Rectangle-1112"></path>
+                <path d="M28,31.998723 L28,0.906503603 C28,0.906503603 47.4437043,20.0171034 42.4569665,27.8998397 C37.4702287,35.7825759 28,31.998723 28,31.998723 Z" id="Path-2177"></path>
+                <path d="M24,31 L24,3.98148781" id="Line"></path>
+                <path d="M24,4.90398836 L13,10.4271264 L23.9999998,13.9039884 L24,4.90398836 Z" id="Path-2179"></path>
+                <path d="M24,16.0728433 L16.1222977,20.261821 L23.9999999,22.8988178 L24,16.0728433 Z" id="Path-2179"></path>
+            </g>
+        </g>
+    </g>
+</svg>

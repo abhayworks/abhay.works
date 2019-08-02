@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'terminal_grotesque';
+    src: url('terminal-grotesque-webfont.woff2') format('woff2'),
+         url('terminal-grotesque-webfont.woff') format('woff'),
+         url('terminal-grotesque-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'terminal_grotesque_openopen';
+    src: url('terminal-grotesque_open-webfont.woff2') format('woff2'),
+         url('terminal-grotesque_open-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
