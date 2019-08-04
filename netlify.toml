@@ -1,0 +1,5 @@
+[[headers]]
+  for = "/*.scss"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Content-Type = "stylesheet"
