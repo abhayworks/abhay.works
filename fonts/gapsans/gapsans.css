@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'gap_sansregular';
+    font-family: 'Gap Sans';
     src: url('gapsans-webfont.eot');
     src: url('gapsans-webfont.eot?#iefix') format('embedded-opentype'),
          url('gapsans-webfont.woff2') format('woff2'),
@@ -15,7 +15,7 @@
 
 
 @font-face {
-    font-family: 'gap_sansblack';
+    font-family: 'Gap Sans Black';
     src: url('gapsansblack-webfont.eot');
     src: url('gapsansblack-webfont.eot?#iefix') format('embedded-opentype'),
          url('gapsansblack-webfont.woff2') format('woff2'),
@@ -31,7 +31,7 @@
 
 
 @font-face {
-    font-family: 'gap_sansbold';
+    font-family: 'Gap Sans Bold';
     src: url('gapsansbold-webfont.eot');
     src: url('gapsansbold-webfont.eot?#iefix') format('embedded-opentype'),
          url('gapsansbold-webfont.woff2') format('woff2'),

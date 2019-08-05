@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'supplyregular';
+    font-family: 'supply';
     src: url('supply-regular-webfont.woff2') format('woff2'),
          url('supply-regular-webfont.woff') format('woff');
     font-weight: normal;
@@ -11,7 +11,7 @@
 
 
 @font-face {
-    font-family: 'supplyultralight';
+    font-family: 'supply ultra light';
     src: url('supply-ultralight-webfont.woff2') format('woff2'),
          url('supply-ultralight-webfont.woff') format('woff');
     font-weight: normal;
