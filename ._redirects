@@ -1,2 +1,0 @@
- "\.(tex|log|aux|asc)$">
-        Header set Content-Type text/plain
